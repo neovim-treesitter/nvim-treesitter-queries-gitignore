@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/shunsambongi/tree-sitter-gitignore",
   "semver": false,
-  "lang": "gitignore",
+  "parser_version": "f4685bf11ac466dd278449bcfe5fd014e94aa504",
   "location": null,
-  "parser_version": "f4685bf11ac466dd278449bcfe5fd014e94aa504"
+  "lang": "gitignore",
+  "url": "https://github.com/shunsambongi/tree-sitter-gitignore"
 }
